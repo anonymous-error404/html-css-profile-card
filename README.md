@@ -39,15 +39,6 @@ npx http-server
 
 Then open http://localhost:8000 in your browser
 
-
-
-File Structure
-html-css-profile-card/
-├── index.html          # Main HTML file
-├── styles.css          # CSS styling
-├── images/            # Profile images and assets
-└── README.md          # Project documentation
-
 ##What I'd Improve with More Time
 
 Interactive Elements: Add JavaScript for dynamic content updates and interactive features
